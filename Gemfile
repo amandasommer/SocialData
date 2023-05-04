@@ -26,7 +26,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 #gem "jekyll-theme-clean-blog", "~> 4.0.1"
-gem 'jekyll-theme-clean-blog', '~> 4.0', '>= 4.0.12'
+#gem 'jekyll-theme-clean-blog', '~> 4.0', '>= 4.0.12'
 #gem 'jekyll-theme-clean-blog', git: 'https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll.git'
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
